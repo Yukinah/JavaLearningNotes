@@ -12,7 +12,7 @@
     * [开发工具设置](#开发工具设置)
   * [更新](#更新)
   * [卸载](#卸载)
-  * [管理](#管理)
+  * [JAVA项目管理](#JAVA项目管理)
 ## 参考
   * [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/) - java官方教程 <br>
   * 
@@ -23,8 +23,8 @@
 ## 设置
   ### ·环境设置
   ### ·开发工具设置
-    * maven
     * intelliJ IDEA
 ## 更新
 ## 卸载
-## 管理
+## JAVA项目管理
+  * maven
