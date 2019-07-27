@@ -23,7 +23,7 @@
 ## 设置
   ### ·环境设置
   ### ·开发工具设置
-  * intelliJ IDEA
+  * IntelliJ IDEA
 ## 更新
 ## 卸载
 ## JAVA项目管理
