@@ -14,8 +14,6 @@
   * [卸载](#卸载)
   * [JAVA项目管理](#JAVA项目管理)
 ## 参考
-  * [The Java™ Tutorials](https://docs.oracle.com/javase/tutorial/) - java官方教程 <br>
-  * 
   *
 ## 下载安装
   ### ·MacOS系统
