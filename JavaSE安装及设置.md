@@ -26,3 +26,4 @@
 ## 卸载
 ## JAVA项目管理
   * maven
+  * gradle
